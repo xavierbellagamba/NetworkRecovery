@@ -1,0 +1,2 @@
+n_generation,n_chromosome,n_elite,tournament_size,P_crossover,P_mutation
+50,50,2,12,0.5,0.005
